@@ -14,7 +14,6 @@ body{
 .jumbotron {
   margin-left: auto;
   margin-right: auto;
-  background-image: url("../img/newimage-size.png");
   background-size: cover;
   background-repeat: no-repeat;
   /* width: 75%; */
