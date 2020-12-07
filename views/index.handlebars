@@ -1,0 +1,10 @@
+{{#if top5Drinks}}
+{{>jumbotron}}
+{{>navbar}}
+{{>top5 top5Drinks=top5Drinks}}
+
+{{else}}
+{{>jumbotron}}
+{{>navbar}}
+{{>featuredDrinks}}
+{{/if}}
